@@ -15,7 +15,6 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.stream.Collectors;
@@ -33,7 +32,7 @@ public class App {
             JSONArray cycleList = (JSONArray) obj;
 
             //Iterate over Json cycle array and convert it to the List of Cycles in POJO.
-            List<Cycle> cycles = (List<Cycle>) cycleList.stream().map(emp -> parseEmployeeObject((JSONObject) emp)).collect(Collectors.toList());
+            List<Cycle> cycles = (List<Cycle>) cycleList.stream().map(emp -> parseCycleObject((JSONObject) emp)).collect(Collectors.toList());
             //creating a Thread Pool of Size 10
             ExecutorService executor = Executors.newFixedThreadPool(10);
             // Assigning every cycle to a Runnable object
@@ -57,7 +56,7 @@ public class App {
 
     }
 
-    private static Cycle parseEmployeeObject(JSONObject employee) {
+    private static Cycle parseCycleObject(JSONObject employee) {
         Cycle cycle = new Cycle();
         ChainAssembly chainAssembly = new ChainAssembly(new Date());
         try {
