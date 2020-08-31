@@ -1,0 +1,17 @@
+
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(ç÷ÛÎøÿÿÿÿ8ĞÂôŠÄ.
+Fsquid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ĞÂôŠÄ.
+gsquid:S2147-"DCombine this catch with the one at line 41, which has the same body.(âÃƒŠıÿÿÿÿ8ĞÂôŠÄ.
+bsquid:S2147+"DCombine this catch with the one at line 41, which has the same body.(ï­£Ä8ĞÂôŠÄ.
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.(í¿ôÿÿÿÿÿ8ĞÂôŠÄ.
+Fsquid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ĞÂôŠÄ.
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(²¨ç÷8® ¡ƒÄ.
+[squid:CallToDeprecatedMethod1",Remove this use of "Date"; it is deprecated.(Ù¾¤8Ò¸Ä‚Ä.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(üë¿ùÿÿÿÿ8ĞÂôŠÄ.
+Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ĞÂôŠÄ.
+[
+squid:S106["9Replace this use of System.out or System.err by a logger.(ƒîóãşÿÿÿÿ8ĞÂôŠÄ.

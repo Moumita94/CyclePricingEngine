@@ -1,0 +1,6 @@
+
+]squid:S1161":Add the "@Override" annotation above this method signature(ÜùáÚýÿÿÿÿ8²¬ç‚Ä.
+squid:S4165"lRemove this useless assignment; "dateOFCreation" already holds the assigned value along all execution paths.(Í•áÔÿÿÿÿÿ8²¬ç‚Ä.
+Rsquid:S1656"/Remove or correct this useless self-assignment.(Í•áÔÿÿÿÿÿ8²¬ç‚Ä.
+]squid:S1161>":Add the "@Override" annotation above this method signature(°²œŸþÿÿÿÿ8²¬ç‚Ä.
+Xsquid:S1161B":Add the "@Override" annotation above this method signature(Ö‚ìÞ8²¬ç‚Ä.

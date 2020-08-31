@@ -1,0 +1,6 @@
+
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì¶Ó¢8ÐÐé…Ä.
+—"squid:ClassVariableVisibilityCheck"]Make referenceBaseDate a static final constant or non-public and provide accessors if needed.(â¦Á„þÿÿÿÿ8ÐÐé…Ä.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(òÆËÇøÿÿÿÿ8ÐÐé…Ä.
+“"squid:ClassVariableVisibilityCheck"YMake inflationRate a static final constant or non-public and provide accessors if needed.(±Â¬µÿÿÿÿÿ8ÐÐé…Ä.

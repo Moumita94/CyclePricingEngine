@@ -1,0 +1,8 @@
+
+{squid:S14886"]Immediately return this expression instead of assigning it to the temporary variable "price".(ôšÝþ8­¦¶…Ä.
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(’åÁƒüÿÿÿÿ8­¦¶…Ä.
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(È¤‘Ã8­¦¶…Ä.
+usquid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¸Îöÿÿÿÿÿ8­¦¶…Ä.
+psquid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£šúÆ8­¦¶…Ä.

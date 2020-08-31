@@ -1,0 +1,107 @@
+[
+  {
+    "cycle": {
+      "ChainAssembly": {
+        "outerCover": 1,
+        "innerAttachment": 1,
+        "pin": 1,
+        "bush": 1,
+        "roller": 1,
+        "dateOfCreation": "05/01/2023"
+      },
+      "Frame": {
+        "type": "ALUMINUM",
+        "dateOfCreation": "05/01/2023"
+      },
+      "HandleBarWithBrakes": {
+        "handleBarGrip": 1,
+        "frontBrakes": 1,
+        "headTube": 1,
+        "shockAbsorber": 1,
+        "dateOfCreation": "05/01/2023"
+      },
+      "Seating": {
+        "saddle": 1,
+        "seatPost": 1,
+        "dateOfCreation": "05/01/2023"
+      },
+      "Wheels": {
+        "spokes": 9,
+        "rim": 1,
+        "tube": 1,
+        "tyre": 1,
+        "dateOfCreation": "05/01/2023"
+      }
+    }
+  },
+  {
+    "cycle": {
+      "ChainAssembly": {
+        "outerCover": 1,
+        "innerAttachment": 1,
+        "pin": 1,
+        "bush": 1,
+        "roller": 1,
+        "dateOfCreation": "05/01/2029"
+      },
+      "Frame": {
+        "type": "ALUMINUM",
+        "dateOfCreation": "05/01/2023"
+      },
+      "HandleBarWithBrakes": {
+        "handleBarGrip": 1,
+        "frontBrakes": 1,
+        "headTube": 1,
+        "shockAbsorber": 1,
+        "dateOfCreation": "05/01/2023"
+      },
+      "Seating": {
+        "saddle": 1,
+        "seatPost": 1,
+        "dateOfCreation": "05/01/2023"
+      },
+      "Wheels": {
+        "spokes": 1,
+        "rim": 1,
+        "tube": 1,
+        "tyre": 1,
+        "dateOfCreation": "05/01/2023"
+      }
+    }
+  },
+  {
+    "cycle": {
+      "ChainAssembly": {
+        "outerCover": 1,
+        "innerAttachment": 1,
+        "pin": 1,
+        "bush": 1,
+        "roller": 1,
+        "dateOfCreation": "05/01/2023"
+      },
+      "Frame": {
+        "type": "ALUMINUM",
+        "dateOfCreation": "05/01/2023"
+      },
+      "HandleBarWithBrakes": {
+        "handleBarGrip": 1,
+        "frontBrakes": 1,
+        "headTube": 1,
+        "shockAbsorber": 1,
+        "dateOfCreation": "05/01/2023"
+      },
+      "Seating": {
+        "saddle": 1,
+        "seatPost": 1,
+        "dateOfCreation": "05/01/2023"
+      },
+      "Wheels": {
+        "spokes": 9,
+        "rim": 1,
+        "tube": 1,
+        "tyre": 1,
+        "dateOfCreation": "05/01/1900"
+      }
+    }
+  }
+]
